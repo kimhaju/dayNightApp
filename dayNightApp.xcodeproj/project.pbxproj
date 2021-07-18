@@ -15,6 +15,9 @@
 		296D4B3326A1C4E400D8343E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 296D4B3126A1C4E400D8343E /* LaunchScreen.storyboard */; };
 		296D4B3E26A1C4E500D8343E /* dayNightAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296D4B3D26A1C4E500D8343E /* dayNightAppTests.swift */; };
 		296D4B4926A1C4E500D8343E /* dayNightAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 296D4B4826A1C4E500D8343E /* dayNightAppUITests.swift */; };
+		296D4B5826A1DC2700D8343E /* night.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 296D4B5626A1DC2700D8343E /* night.jpg */; };
+		296D4B5926A1DC2700D8343E /* day.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 296D4B5726A1DC2700D8343E /* day.jpg */; };
+		296D4B5B26A26CA900D8343E /* Philosopher-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 296D4B5A26A26C9800D8343E /* Philosopher-Italic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,9 @@
 		296D4B4426A1C4E500D8343E /* dayNightAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = dayNightAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		296D4B4826A1C4E500D8343E /* dayNightAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dayNightAppUITests.swift; sourceTree = "<group>"; };
 		296D4B4A26A1C4E500D8343E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		296D4B5626A1DC2700D8343E /* night.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = night.jpg; sourceTree = "<group>"; };
+		296D4B5726A1DC2700D8343E /* day.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = day.jpg; sourceTree = "<group>"; };
+		296D4B5A26A26C9800D8343E /* Philosopher-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Philosopher-Italic.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +108,10 @@
 				296D4B2626A1C4E300D8343E /* AppDelegate.swift */,
 				296D4B2826A1C4E300D8343E /* SceneDelegate.swift */,
 				296D4B2A26A1C4E300D8343E /* ViewController.swift */,
+				296D4B5726A1DC2700D8343E /* day.jpg */,
+				296D4B5626A1DC2700D8343E /* night.jpg */,
 				296D4B2C26A1C4E300D8343E /* Main.storyboard */,
+				296D4B5A26A26C9800D8343E /* Philosopher-Italic.ttf */,
 				296D4B2F26A1C4E400D8343E /* Assets.xcassets */,
 				296D4B3126A1C4E400D8343E /* LaunchScreen.storyboard */,
 				296D4B3426A1C4E400D8343E /* Info.plist */,
@@ -233,7 +242,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				296D4B3326A1C4E400D8343E /* LaunchScreen.storyboard in Resources */,
+				296D4B5926A1DC2700D8343E /* day.jpg in Resources */,
 				296D4B3026A1C4E400D8343E /* Assets.xcassets in Resources */,
+				296D4B5826A1DC2700D8343E /* night.jpg in Resources */,
+				296D4B5B26A26CA900D8343E /* Philosopher-Italic.ttf in Resources */,
 				296D4B2E26A1C4E300D8343E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
